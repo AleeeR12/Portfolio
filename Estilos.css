@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(142, 80, 201);
+}
+.foto img{
+    width: 245px;
+    height: 245px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    left: 30%;
+    top: 0%;
+}
+h3{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.col-4 img{
+    width: 400px;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.counteniner{
+    background-color: rgb(49, 49, 49);
+}
+.countitulo{
+    padding: 40px;
+    color: white;
+    text-align: center;
+    background-color: rgb(49, 49, 49);
+}
+#counteniner{
+    text-align: center;
+    width: 30rem;
+    margin: 0% auto;
+}
